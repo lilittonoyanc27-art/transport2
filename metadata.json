@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Walking Mastery",
+  "description": "Ինտերակտիվ 3D խաղ և տեսություն Caminar, Pasear և Andar բայերի մասին: Մրցակցություն Գոռի և Գայանեի միջև:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
